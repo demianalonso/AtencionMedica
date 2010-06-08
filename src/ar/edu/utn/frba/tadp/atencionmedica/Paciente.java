@@ -1,5 +1,9 @@
 package ar.edu.utn.frba.tadp.atencionmedica;
 
+/**
+ * Esto es un paciente!
+ *
+ */
 public class Paciente {
 
 	private final String nombre;
